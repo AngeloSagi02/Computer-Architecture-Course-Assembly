@@ -189,7 +189,5 @@ For bug reports or suggestions, please open an issue.
 - [Assembly Language Tutorials](https://www.tutorialspoint.com/assembly_language/index.htm)
 
 ---
-
-**Last Updated:** April 2026  
 **Course Level:** Intermediate  
 **Language:** x86 Assembly
